@@ -4,16 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
-<style>
-	.container{
-		border: dotted 5px purple;
-	}
-</style>
+<title>new.jsp</title>
 </head>
 <body>
 <div class="container">
-	3조 화이팅~!
+	<h1>새로운 페이지</h1>
+	<p>그냥 만들어보고 싶었어요..잘되려나..</p>
 </div>
 </body>
 </html>

@@ -4,16 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
-<style>
-	.container{
-		border: dotted 5px purple;
-	}
-</style>
+<title>test.jsp</title>
 </head>
 <body>
-<div class="container">
-	3조 화이팅~!
-</div>
+테스트 페이지입니다.
 </body>
 </html>
