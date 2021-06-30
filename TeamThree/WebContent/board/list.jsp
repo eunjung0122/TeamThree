@@ -7,6 +7,6 @@
 <title>list.jsp</title>
 </head>
 <body>
-	<p>list</p>
+	<p>listaa</p>
 </body>
 </html>
