@@ -5,6 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>index.jsp</title>
+<style>
+	.container{
+		border: dotted 5px purple;
+	}
+</style>
 </head>
 <body>
 <div class="container">
