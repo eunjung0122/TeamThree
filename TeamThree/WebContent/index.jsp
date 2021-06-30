@@ -13,7 +13,8 @@
 </head>
 <body>
 <div class="container">
-	3조 화이팅~!
+	<h1>3조 화이팅~!</h1>
+	<h2>내일이 드디어 등원이라니 ,,</h2>
 </div>
 </body>
 </html>
