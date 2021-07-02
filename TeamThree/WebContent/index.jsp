@@ -24,5 +24,6 @@
 	<h4>힘내세요 다둘ㅠㅠㅠ</h4>
 
 </div>
+<a href="test28.jsp">test28</a>
 </body>
 </html>
