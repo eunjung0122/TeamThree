@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	추가했다 뿅!!!!
+<p>그래도 오늘은 불금이니까</p>
 </body>
 </html>

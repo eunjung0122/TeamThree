@@ -15,5 +15,6 @@
 <div class="container">
 	3조 화이팅~!
 </div>
+<a href="test28.jsp">test28</a>
 </body>
 </html>
