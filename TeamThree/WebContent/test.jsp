@@ -5,6 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>test.jsp</title>
+<style>
+	body{
+		color:blue;
+	}
+</style>
 </head>
 <body>
 테스트 페이지입니다.
